@@ -1,0 +1,7 @@
+//LEGO devices
+global.SPEED_TRAIN_UUID   = "eefe39f2fc8240ec90f80995a22b2a24";
+global.BOOST_BRICK_UUID   = "6164d6a98e8246dbaa9677afb79c3f33";
+global.CARGO_TRAIN_UUID   = "9923aa9b8c3545868d66f9731c9c3bde";
+global.TRAIN_PILOT_Y_UUID = "8c045dea05ff41f992fa456715dd3e2c";
+global.TRAIN_PILOT_G_UUID = "d41c228fc7844c3fb5606ddc21078ef6";
+global.BATMOBIL_UUID      = "71ebacdc84bd4f97b9ec714d948e0ec0";
